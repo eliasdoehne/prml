@@ -1,0 +1,5 @@
+bokeh
+dataclasses
+matplotlib
+numpy
+scipy
